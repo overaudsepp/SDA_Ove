@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 15.07.2021 - show empty
 
+=======
+
+'
+something github
+>>>>>>> 92b87295ffa397b0d8b8b5fb743c10dc05dda153
